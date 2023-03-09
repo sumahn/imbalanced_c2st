@@ -1,0 +1,7 @@
+# File to set the parameters for the experiments
+n_minor: 1000
+ir: [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21]
+level: 0.05
+n_sims: 1000   # we used 1000 for the experiments in the paper but this takes a while
+lr: 0.001
+
